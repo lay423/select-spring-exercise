@@ -1,0 +1,5 @@
+.gradle/
+*.xml
+.idea/
+out/
+gradle/
